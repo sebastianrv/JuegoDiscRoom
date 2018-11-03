@@ -1,0 +1,4 @@
+﻿  Formulario.cpp
+c:\users\sebastian\desktop\juegodiscroom\juegodiscroom\mapa.h(18): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\sebastian\desktop\juegodiscroom\juegodiscroom\formulario.h(124): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+  JuegoDiscRoom.vcxproj -> C:\Users\sebastian\Desktop\JuegoDiscRoom\Debug\JuegoDiscRoom.exe
